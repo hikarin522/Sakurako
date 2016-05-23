@@ -1,0 +1,23 @@
+{
+  "name": "sakurako",
+  "version": "1.0.0",
+  "description": "slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-nlf-fh/Sakurako.git"
+  },
+  "author": "hikari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-nlf-fh/Sakurako/issues"
+  },
+  "homepage": "https://github.com/s-nlf-fh/Sakurako#readme",
+  "dependencies": {
+    "botkit": "^0.1.1",
+    "docomo-api": "0.0.3"
+  }
+}
